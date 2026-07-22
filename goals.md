@@ -1,14 +1,10 @@
 # Goals.
 ## Objetivos.
 
-## Linguagens
-- 1. Python
-- 2. Javascript
-- 3. C#
-
-# Tecnologias
-- Git
-- AWS
+# Principais
+- Javascript
+- PostgreSQL
 - Docker
-- FastAPI
-- SQLAlchemy
+- Redis
+- AWS
+- C#
