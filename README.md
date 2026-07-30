@@ -7,6 +7,5 @@ Meu nome é Bernardo Gomes Quixaba Silva, atualmente tenho 13 anos e estudo para
 - Python
 
 ## Tecnologias em aprendizado
-- Git
-- FastAPI
 - Docker
+- Arquitetura, escalabilidade e código modular
